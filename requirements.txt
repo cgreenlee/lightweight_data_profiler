@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+openpyxl
+# scipy  # Optional: only install if available
